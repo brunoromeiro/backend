@@ -1,4 +1,4 @@
-const _ =require('lodash')
+const _ = require('lodash')
 const BillingCycle = require('../billingCycle/billingCycle')
 
 //Mais uma função middleware

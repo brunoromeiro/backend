@@ -1,4 +1,4 @@
-const BillingCycle = require('./BillingCycle')
+const BillingCycle = require('./billingCycle')
 
 BillingCycle.methods(['get', 'post', 'put', 'delete']) //node-restuful cria todos os servicos rest
 // get -> consultar
